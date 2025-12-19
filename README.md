@@ -24,7 +24,7 @@ Open the project by opening `index.html` in your browser 🚀
 - Click numbers and operators to build an expression.  
 - Press "=" or Enter to evaluate. ✅  
 - Press "C" to clear everything. 🧹  
-- Press "⌫" or Backspace to delete the last character. ⤵️
+- Press "DEL" to delete the last character. ⤵️
 
 ## 📁 Project structure
 - index.html — main HTML file  
